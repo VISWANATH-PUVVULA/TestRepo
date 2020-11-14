@@ -8,8 +8,8 @@ public class Test {
  class DBHandler {
 	
 	 Test configureDB(String user, String password) {
-				// insert code here
-		 return Test;
+				// insert code here updated
+		 return null;
 			}
 
  
