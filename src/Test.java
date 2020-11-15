@@ -8,7 +8,7 @@ public class Test {
  class DBHandler {
 	
 	 Test configureDB(String user, String password) {
-				// insert code here updated
+				// insert code here updated for new branch
 		 return null;
 			}
 
